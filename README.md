@@ -26,7 +26,9 @@ pip install torch torchvision torchaudio
 pip install transformers accelerate peft
 pip install pillow tqdm
 
+## Project
 
+```bash
 project_root/
 ├── train.py
 ├── eval.py
