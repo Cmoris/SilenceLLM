@@ -1,7 +1,7 @@
 # SilenceLLM
 # Multimodal LLM Training (Audio + Video + Text)
 
-> Training script for a **multimodal large language model** that jointly learns from **audio**, **video**, and **text** data.  
+> Multi-Modal LLM for **Silence recognition**  
 > Built with [PyTorch](https://pytorch.org/), [Transformers](https://huggingface.co/docs/transformers), and [torchrun](https://pytorch.org/docs/stable/elastic/run.html).
 
 ---
