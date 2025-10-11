@@ -1,5 +1,4 @@
 # SilenceLLM
-# SilenceLLM
 # Multimodal LLM Training (Audio + Video + Text)
 
 > Training script for a **multimodal large language model** that jointly learns from **audio**, **video**, and **text** data.  
@@ -25,12 +24,14 @@ It integrates:
 pip install torch torchvision torchaudio
 pip install transformers accelerate peft
 pip install pillow tqdm
+```
 
 ---
 
 ## Project
 
 ```bash
+
 project_root/
 ├── train.py
 ├── eval.py
